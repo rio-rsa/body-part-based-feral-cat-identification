@@ -61,7 +61,7 @@ For each image in each cat folder:
 Repeat this process for all four body parts and all 10 cats.
 
 The updated structure will look like this:
-
+```
 ├── body/
 │   ├── cat_01/
 │   │   ├── left/
@@ -100,7 +100,7 @@ The updated structure will look like this:
     └── cat_10/
         ├── left/
         └── right/
-
+```
 ### Step 4: Choosing a side
 
 To ensure consistency in the dataset, we standardise all images to show the **left side** of the cat.
@@ -116,7 +116,7 @@ To ensure consistency in the dataset, we standardise all images to show the **le
 After this step, all retained and flipped images represent the cat’s left side, and future cropping and training will use this orientation only.
 
 Once this is complete, discard the side that was not selected, and **move all selected images into the main cat folder** for that body part. The folder structure should go back to looking like this (i.e., no `left/` or `right/` subfolders):
-
+```
 ├── body/
 │   ├── cat_01/
 │   ├── cat_02/
@@ -137,6 +137,6 @@ Once this is complete, discard the side that was not selected, and **move all se
     ├── cat_02/
     ├── ...
     └── cat_10/
-
+```
 
 # Models
