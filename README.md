@@ -28,6 +28,7 @@ Next, we create **four body part folders**, and copy the 10 cat folders into eac
 
 The structure should look like this:
 
+```
 ├── body/
 │   ├── cat_01/
 │   ├── cat_02/
@@ -48,7 +49,7 @@ The structure should look like this:
     ├── cat_02/
     ├── ...
     └── cat_10/
-
+```
 ### Step 3: Sort by Visibility and Orientation
 
 For each image in each cat folder:
