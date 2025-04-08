@@ -140,3 +140,14 @@ Once this is complete, discard the side that was not selected, and **move all se
 ```
 
 # Models
+
+### The resnet50.py code in this repository is code for a base ResNet50 model to run on a single body part. In this example it is the body but this can be changed for other body parts.
+
+### The featureconcat.py code in this repository is the feature concatenation model involving all body parts. Body parts can be removed and added onto this model. The architecture of the model is shown below:
+
+![Feature Concatenation Model](image-url)
+
+
+
+
+
