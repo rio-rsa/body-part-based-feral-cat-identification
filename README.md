@@ -138,6 +138,8 @@ Once this is complete, discard the side that was not selected, and **move all se
     ├── ...
     └── cat_10/
 ```
+### Step 5: Cropping
+For each image of each cat in the associated body part folder, crop to the body part that is associated with the folder. Every body part folder and subfolder of individual cat should have images of that specific body part of that individual. For example images in front_leg/cat_01 are all images of front legs from cat_01.
 
 # Models
 
