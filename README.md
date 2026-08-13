@@ -1,14 +1,12 @@
 # Code for "Body-Part-based Individual Feral Cat Identification from Camera Trap Images Using Deep Learning"
 
+[![](https://img.shields.io/badge/Ecological_Informatics_Vol_90-Paper-blue)](https://doi.org/10.1016/j.ecoinf.2025.103258)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17586692.svg)](https://doi.org/10.5281/zenodo.17586692)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 **TL;DR**: This repository hosts the code and (links to) data for the paper:
 
 > R. R. S. Akbar, M. W. Rees, P. A. Fleming, and F. Sohel, “Body-part-based individual feral cat identification from camera trap images using deep learning,” *Ecological Informatics*, vol. 90, p. 103258, Jun. 2025, doi: 10.1016/j.ecoinf.2025.103258.
----
-‌ 
-**Link to study:** [Publisher page (DOI)](<https://doi.org/10.1016/j.ecoinf.2025.103258>)
 
 ---
 
